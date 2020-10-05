@@ -1,3 +1,3 @@
 # hyperblog
-Un blog increible para el curso de Git y GitHub de Platzi
-prueba de vuelta
+Un blog increible para el curso de Git y GitHub de Platzi.
+Esta construido con HTML y CSS
